@@ -1,8 +1,8 @@
 # NIS Faker
 
-Gerador de NIS (PIS / PASEP / NIT).
+Gerador de NIS (PIS / PASEP / NIT) para ruby.
 
-Generates Brazilian NIS (PIS / PASEP / NIT) numbers.
+Generates Brazilian NIS (PIS / PASEP / NIT) numbers fro ruby.
 
 ## Install
 
