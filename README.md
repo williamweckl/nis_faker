@@ -2,7 +2,7 @@
 
 Gerador de NIS (PIS / PASEP / NIT) para ruby.
 
-Generates Brazilian NIS (PIS / PASEP / NIT) numbers fro ruby.
+Generates Brazilian NIS (PIS / PASEP / NIT) numbers for ruby.
 
 ## Install
 
